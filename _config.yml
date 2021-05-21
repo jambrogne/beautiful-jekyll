@@ -11,6 +11,10 @@ title: My Website
 # Your name to show in the footer
 author: Some Person
 
+# I added these for the Docs Like Code tutorial (Configure Jekyll GitHub UI step 2)
+url: jambrogne.github.io
+baseurl: /beautiful-jekyll
+
 # --- List of links in the navigation bar --- #
 
 navbar-links:
