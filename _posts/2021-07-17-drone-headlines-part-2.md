@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Drone Headlines are Coming, Part 2
-subtitle: Be patient. The drone part of this post comes at the very end.
+subtitle: Be patient: The drone part of this post comes at the very end
 gh-repo: jambrogne/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [space, journalism, headlines, AI]
