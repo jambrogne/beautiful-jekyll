@@ -28,13 +28,10 @@ Business Insider’s May 30, 2021, report began:
 
 At this point, I started making assumptions based on the tone and word choice ("rogue," "hunted down," and "without being instructed to"). You might even say I was catastrophizing, but I think it was fair given the language.
 
-·    *Did the drone kill the retreating soldier?* 
-
-·    *What was the method of attack?* 
-
-·    *Was the drone destroyed, or did its owner regain control?* 
-
-·    *Is the manufacturer working to correct the flaw that allowed its drone to go rogue?* 
+- Did the drone kill the retreating soldier? 
+- What was the method of attack? 
+- Was the drone destroyed, or did its owner regain control? 
+- Is the manufacturer working to correct the flaw that allowed its drone to go rogue? 
 
 Yet, neither Business Insider nor the Daily Star and New York Post – which it cited – answered these questions. (The New Scientist may have, but it was behind a paywall.) At first, the biggest red flag in my mind seemed to be the lack of data on the soldier's fate. One would think that fact sits high enough on the inverted pyramid to avoid editorial cuts. Later, I’d realize this was far from Business Insider’s biggest issue. 
 
