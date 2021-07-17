@@ -11,7 +11,7 @@ Welcome to The Nav Pane - a site whose title hopefully evokes my professional in
 
 Some good personal blogs start with an end in sight. ([Here’s one example](http://futureairlinepilot.blogspot.com/).) I don’t know where mine will take me. Perhaps I’ll write a book, or start a company, or wake up one day and realize my dream is to run a crêpe food truck. Nah...
 
-What I do know is that *this* technical writing blog is focused on the Washington D.C. area’s unique and essential aerospace industry. The region is an exciting hub of opportunities for flight enthusiasts who write the docs. But for reasons I don't fully understand, we seem to do things a little differently here than they do out West with their docs-as-code workflows.
+What I do know is that *this* technical writing blog is focused on the Washington metropolitan area’s unique and essential aerospace industry. The region is an exciting hub of opportunities for flight enthusiasts who write the docs. But for reasons I don't fully understand, we seem to do things a little differently here than they do out West with their docs-as-code workflows.
 
 By writing in this blog, I have two goals. 
 
