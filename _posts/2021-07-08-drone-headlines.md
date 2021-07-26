@@ -20,11 +20,11 @@ I wasn’t going anywhere, so I decided to put this story and its headline to an
 
 Business Insider’s May 30, 2021, report began:
 
-*"A 'lethal' weaponized drone 'hunted down a human target' without being told to for the first time, according to a UN report seen by the New Scientist.*
-
-*The March 2020 incident saw a KARGU-2 quadcopter autonomously attack a human during a conflict between Libyan government forces and a breakaway military faction, led by the Libyan National Army's Khalifa Haftar, the Daily Star reported.*
-
-*The Turkish-built KARGU-2, a deadly attack drone designed for asymmetric warfare and anti-terrorist operations, targeted one of Haftar's soldiers while he tried to retreat, according to the paper."*
+> "A 'lethal' weaponized drone 'hunted down a human target' without being told to for the first time, according to a UN report seen by the New Scientist.
+>
+> The March 2020 incident saw a KARGU-2 quadcopter autonomously attack a human during a conflict between Libyan government forces and a breakaway military faction, led by the Libyan National Army's Khalifa Haftar, the Daily Star reported.
+>
+>The Turkish-built KARGU-2, a deadly attack drone designed for asymmetric warfare and anti-terrorist operations, targeted one of Haftar's soldiers while he tried to retreat, according to the paper."
 
 At this point, I started making assumptions based on the tone and word choice ("rogue," "hunted down," and "without being instructed to"). My wife would call it catastrophizing, but I think it was fair given the language.
 
@@ -43,12 +43,7 @@ Hoping to find the answers elsewhere, I ran a Google keyword search. At first, I
 
 Okay, real talk… reporters work *hard*. And I like to sleep, so I haven't read all 548 pages of the UN report yet. But the drone incident in its entirety seems to be covered on page 17. 
 
-<details>
-<summary>It's still a long passage, so click here to expand.</summary>
-<p><em>Logistics convoys and retreating HAF were subsequently hunted down and remotely engaged by the unmanned combat aerial vehicles or the lethal autonomous weapons systems such as the STM Kargu-2 (see annex 30) and other loitering munitions. The lethal autonomous weapons systems were programmed to attack targets without requiring data connectivity between the operator and the munition: in effect, a true "fire, forget and find" capability. The unmanned combat aerial vehicles and the small drone intelligence, surveillance and reconnaissance capability of HAF were neutralized by electronic jamming from the Koral electronic warfare system.</em></p>
-
-<p><em>The concentrated firepower and situational awareness that those new battlefield technologies provided was a significant force multiplier for the ground units of GNA-AF, which slowly degraded the HAF operational capability. The latter's units were neither trained nor motivated to defend against the effective use of this new technology and usually retreated in disarray. Once in retreat, they were subject to continual harassment from the unmanned combat aerial vehicles and lethal autonomous weapons systems, which were proving to be a highly effective combination in defeating the United Arab Emirates-delivered Pantsir S-1 surface-toair missile systems. These suffered significant casualties, even when used in a passive electro-optical role to avoid GNA-AF jamming. With the Pantsir S-1 threat negated, HAF units had no real protection from remote air attacks."</em></p>
-</details>
+<details><summary>It's still a long passage, so click here to expand:</summary><blockquote cite="https://undocs.org/S/2021/229"><p>"Logistics convoys and retreating HAF were subsequently hunted down and remotely engaged by the unmanned combat aerial vehicles or the lethal autonomous weapons systems such as the STM Kargu-2 (see annex 30) and other loitering munitions. The lethal autonomous weapons systems were programmed to attack targets without requiring data connectivity between the operator and the munition: in effect, a true "fire, forget and find" capability. The unmanned combat aerial vehicles and the small drone intelligence, surveillance and reconnaissance capability of HAF were neutralized by electronic jamming from the Koral electronic warfare system.</p> <p>The concentrated firepower and situational awareness that those new battlefield technologies provided was a significant force multiplier for the ground units of GNA-AF, which slowly degraded the HAF operational capability. The latter's units were neither trained nor motivated to defend against the effective use of this new technology and usually retreated in disarray. Once in retreat, they were subject to continual harassment from the unmanned combat aerial vehicles and lethal autonomous weapons systems, which were proving to be a highly effective combination in defeating the United Arab Emirates-delivered Pantsir S-1 surface-toair missile systems. These suffered significant casualties, even when used in a passive electro-optical role to avoid GNA-AF jamming. With the Pantsir S-1 threat negated, HAF units had no real protection from remote air attacks."</p></blockquote></details>
 
 The above passage leaves the target's fate ambiguous, so it makes sense that Business Insider would have as well. But it also implies that the drone, rather than acting without prior instruction, was operating as coded by its developers. In that sense, Business Insider's dystopian sci-fi language was harder to justify, even if it was citing other news outlets.
 
@@ -58,11 +53,11 @@ And its headline calling the Kargu-2 a "rogue killer drone" that hunted down a t
 
 If I understand correctly, the real news angle was that this ominous *but correctly functioning* tech may have just seen its first use in combat, despite ongoing international efforts to ban it. Given enough time, I think an editor could've written plenty of headlines that would have been just as catchy without bending the truth. Here is my attempt:
 
-*Autonomous combat drone attacks first human target, UN report implies*
+> Autonomous combat drone attacks first human target, UN report implies
 
 Or, using Business Insider’s casual, verbose style:
 
-*A 2020 Libyan conflict may have seen the world’s first known victim of an autonomous drone, UN report says*
+> A 2020 Libyan conflict may have seen the world’s first known victim of an autonomous drone, UN report says
 
 How did I do? Would you have clicked either of the above headlines, or did I mess things up too much with my bland, buzz-killing technical writer’s brain? More importantly, do they ring true given what we know about the story? In that sense, at least, I think they do.
 
