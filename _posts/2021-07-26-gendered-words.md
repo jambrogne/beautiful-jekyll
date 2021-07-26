@@ -28,6 +28,6 @@ I know this is tricky territory. And I'm not telling anyone to keep problematic 
 
 It might even be wise, if somewhat cowardly, to wait a few months after the FAA officially announces its language changes before you follow suit. Let the agency, not *your* documentation, spring that on readers. If you can use that time to scour your docs, all the better.
 
-<img src="assets\img\notam-change.JPG" alt="Low priority? Not to PreviousCompany" style="zoom:50%;" />
+<img src="..\assets\img\notam-change.JPG" alt="Low priority? Not to PreviousCompany" style="zoom:50%;" />
 
 I mean, look at the above graphic from page 108 of the FAA report. My previous company maintains the FAA's Federal Notice to Airmen (NOTAM) System. Those poor writers have *a lot* of files to change. For now at least, I only have to change a few words in my resume.
