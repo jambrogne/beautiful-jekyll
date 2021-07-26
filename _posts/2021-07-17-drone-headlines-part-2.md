@@ -40,4 +40,4 @@ For my part, I can’t help now but wonder if that headline was distorted by a b
 
 Of course you mind. Misleading headlines are awful.
 
-**UPDATE** (7/26/21):  After watching the CNN video interview, I revised paragraph 3 to clarify Tyson's issue with people saying Branson went to "space." Before I thought he meant Branson just didn't go high enough. His actual three-part argument makes much better sense... probably because he's Neil deGrasse friggin' Tyson.
+**UPDATE** (7/26/21):  After watching the CNN video interview, I revised paragraph 3 to clarify Tyson's issue with people saying Branson went to "space." Before I thought he meant Branson just didn't go high enough. His actual three-part argument makes much better sense... probably because he's Neil deGrasse Tyson.
