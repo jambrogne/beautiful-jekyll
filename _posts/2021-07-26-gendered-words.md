@@ -26,7 +26,7 @@ And even assuming a given company makes a seamless transition, think of the impa
 
 I know this is tricky territory. And I'm not telling anyone to keep problematic terms in your company's style guide, because I think the push for inclusive language is a good thing. But as technical writers, we need to be aware of the consequences of changing industry jargon to the clarity, navigability, and reach of our content.
 
-It might even be wise, if somewhat cowardly, to wait a few months after the FAA officially announces its language changes before you follow suit. Let the agency, not *your* documentation, spring that on readers. If you can use that time to scour your docs, all the better.
+It might even be wise, if somewhat cowardly, to wait until a few months after the FAA officially announces its language changes before you follow suit. Let the agency, not *your* documentation, spring that on readers. If you can use that time to scour your docs, all the better.
 
 <img src="..\assets\img\notam-change.JPG" alt="Low priority? Not to PreviousCompany" style="zoom:50%;" class="center"/>
 
