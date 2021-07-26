@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Replacing Gendered Words in Aviation
-subtitle: FAA contractors should prep for updating their style guides.
+subtitle: FAA contractors should prep for updating their style guides
 gh-repo: jambrogne/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [FAA, aviation, drones, technical writing, GovCon]
