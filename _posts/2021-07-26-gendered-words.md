@@ -16,7 +16,7 @@ But it was enough to make me question my assumptions. With minimal digging, I re
 
 Thanks for the tip, computer. 
 
-On page 97 of the June 23, 2021, report, the FAA Drone Advisory Committee goes over the history of unnecessarily masculine aviation terms, and then proposes neutral replacements. For an aviation/writing geek like me, it’s fascinating to learn how certain words were chosen to minimize syllables during conversations between pilots and controllers.
+On page 97 of the June 23, 2021, report, the FAA Drone Advisory Committee goes over the history of unnecessarily masculine aviation terms, and then proposes neutral replacements. For an aviation geek like me, it’s fascinating to learn how certain words were chosen to minimize syllables during conversations between pilots and controllers.
 
 Then again, I hope aerospace federal contractors are paying attention, because this could be a headache for their technical writers. 
 
