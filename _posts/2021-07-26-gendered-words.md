@@ -10,7 +10,7 @@ comments: true
 
 Grammarly is growing on me. I didn’t exactly like the idea of computer-assisted writing, but that plucky little bot has proven useful in surprising ways. For example, it just told me that, assuming the political winds keep blowing left, I’m spelling out UAV wrong. 
 
-At first, I assumed its suggested word swap to "uncrewed aerial vehicle" or - more bizarrely - "crewless aerial vehicle" was just a case of misunderstanding human context, akin to telling me I should write "hot cross rear ends." 
+At first, I assumed its suggested word swap to "uncrewed aerial vehicle" or (more bizarrely) "crewless aerial vehicle" was just a case of misunderstanding human context, akin to telling me I should write "hot cross rear ends." 
 
 But it was enough to make me question my assumptions. With minimal digging, I realized these new spellings of UAV were gaining traction in [academia](https://geog.sfsu.edu/UAS)… and at [NASA](https://history.nasa.gov/styleguide.html)… and possibly at my favorite federal client, the [FAA](https://www.washingtonpost.com/transportation/2021/06/23/faa-gender-neutral-language/).
 
