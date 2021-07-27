@@ -20,7 +20,7 @@ The June 23, 2021, report holds a lot of interest for an aviation geek like me, 
 
 But starting on page 97, the FAA Drone Advisory Committee goes over the history of unnecessarily masculine aviation terms, and then proposes neutral replacements. I hope aerospace federal contractors are paying attention, because this could be a headache for their technical writers. 
 
-You might think updating isolated terms is as easy as doing a few find-and-replace operations. But think of all the Word documents, PDFs, SharePoint sites, Markdown files, web copy, public-facing GUI labels, and backend code values to track down.
+You might think updating isolated terms is as easy as doing a few find-and-replace operations. But think of all the Word documents, PDFs, SharePoint pages, Markdown files, web copy, GUI labels, and backend code values that a heavily involved software documentation team might have to track down.
 
 And even assuming a given company makes a seamless transition, think of the impact that might have to document navigation when readers habitually keyword-searching for a section on “unmanned aircraft” suddenly can’t jump to their content.
 
