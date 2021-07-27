@@ -30,4 +30,4 @@ It might even be wise, if somewhat cowardly, to wait until a few months after th
 
 <img src="..\assets\img\notam-change.JPG" alt="Low priority? Not to PreviousCompany" style="zoom:50%;" class="center"/>
 
-I mean, look at the above graphic from page 108 of the FAA report. My previous company maintains the FAA's Federal Notice to Airmen (NOTAM) System. Last I checked, it's a suite of ~15 apps, most of which have their own documentation. Those poor writers have *a lot* of files to change. I may only have to change a few words in my resume.
+I mean, look at the above graphic from page 108 of the FAA report. My previous company maintains the FAA's Federal Notice to Airmen (NOTAM) System. Last I checked, it's a suite of about 15 apps, most of which have their own documentation. Those poor writers have *a lot* of files to change. I may only have to change a few words in my resume.
